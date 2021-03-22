@@ -1,0 +1,1 @@
+File sort utility, often used as a filter in a pipe. This command sorts a text stream or file forwards or backwards, or according to various keys or character positions. Using the -m option, it merges presorted input files. The info page lists its many capabilities and options. See Example 11-10, Example 11-11, and Example A-8.
